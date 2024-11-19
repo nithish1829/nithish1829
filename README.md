@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌟 Java Backend Developer Portfolio ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-<!--
-**nithish1829/nithish1829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java GIF](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
 
-Here are some ideas to get you started:
+Welcome to my GitHub repository! Here, I showcase my expertise in building secure and scalable backend systems using **Java** and modern tools and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 **About Me**
+
+🔹 Passionate **Java Backend Developer** with hands-on experience in building RESTful APIs and managing database connectivity.  
+🔹 Proficient in designing and deploying robust server-side solutions.  
+🔹 Skilled in tools and technologies like **Spring Boot**, **SQL**, and **Jenkins**.
+
+---
+
+## 🛠️ **Tech Stack**
+
+Here’s the tech stack I work with:
+
+| **Category**           | **Tools & Technologies**                                                                                       |
+|-------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Languages**          | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Frameworks**         | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| **Tools**              | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| **IDEs**               | ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
+| **API Testing**        | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)       |
+| **Web Development**    | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)               |
+
+---
+
+## 🌟 **Featured Project**
+
+### **🔧 RESTful API Project**
+
+**Description**:  
+This project is a RESTful API designed for managing business operations. The application showcases the following features:
+- CRUD operations with **SQL database**.
+- Secure APIs built with **Spring Boot**.
+- Deployed and tested using **Jenkins** and **Postman**.
+
+#### 🗂️ **Project Structure**
