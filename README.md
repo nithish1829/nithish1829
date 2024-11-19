@@ -1,8 +1,10 @@
-# 🌟 Java Backend Developer Portfolio ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+# 🌟 Java Backend Developer 
 
-![Java GIF](https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif)
+<h1 align="center">👨‍💻 Welcome to My GitHub! 👨‍💻</h1>
 
-Welcome to my GitHub repository! Here, I showcase my expertise in building secure and scalable backend systems using **Java** and modern tools and frameworks.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
+</div>
 
 ---
 
