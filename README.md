@@ -7,6 +7,24 @@
 </div>
 
 ---
+# 🌟 What I Do  
+💻 **Backend Architectures:** Build scalable, secure backend systems.  
+🔗 **RESTful APIs:** Develop APIs with robust security and efficiency.  
+🤝 **Team Collaboration:** Work with cross-functional teams to deliver seamless apps.  
+⚙️ **Automation:** Deploy code using Jenkins, Git, and CI/CD pipelines.  
+
+# 🚀 My Goals  
+🎓 Continuously learn and adopt emerging technologies.  
+🌐 Contribute to impactful open-source projects.  
+✨ Create solutions for real-world challenges.  
+
+# 📫 Let's Connect!  
+🌍 [Portfolio Website](#)  
+📧 [Email Me](nithishmaran04@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/nithishmaran/)  
+🐙 [GitHub](https://github.com/nithish1829)  
+
+---
 
 ## 👨‍💻 **About Me**
 
